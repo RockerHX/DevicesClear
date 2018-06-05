@@ -38,9 +38,13 @@ playground.xcworkspace
 # Packages/
 # Package.pins
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Package.resolved
 >>>>>>> 87b340c4d5b281a6ec10e0ca59f051219a207330
+=======
+# Package.resolved
+>>>>>>> fa9be5a598c72f1e4d706c68e078f290a09a3d14
 .build/
 
 # CocoaPods
@@ -50,10 +54,8 @@ playground.xcworkspace
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
 <<<<<<< HEAD
+<<<<<<< HEAD
 Pods/
-=======
-# Pods/
->>>>>>> 87b340c4d5b281a6ec10e0ca59f051219a207330
 
 # Carthage
 #
