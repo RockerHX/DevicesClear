@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		C678319220C6B2E900E638C5 /* DevicesClean */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DevicesClean; sourceTree = BUILT_PRODUCTS_DIR; };
+		C678319220C6B2E900E638C5 /* DevicesClear */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DevicesClear; sourceTree = BUILT_PRODUCTS_DIR; };
 		C678319520C6B2E900E638C5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		C678318920C6B2E900E638C5 = {
 			isa = PBXGroup;
 			children = (
-				C678319420C6B2E900E638C5 /* DevicesClean */,
+				C678319420C6B2E900E638C5 /* DevicesClear */,
 				C678319320C6B2E900E638C5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		C678319320C6B2E900E638C5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C678319220C6B2E900E638C5 /* DevicesClean */,
+				C678319220C6B2E900E638C5 /* DevicesClear */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C678319420C6B2E900E638C5 /* DevicesClean */ = {
+		C678319420C6B2E900E638C5 /* DevicesClear */ = {
 			isa = PBXGroup;
 			children = (
 				C678319520C6B2E900E638C5 /* main.swift */,
 			);
-			path = DevicesClean;
+			path = DevicesClear;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C678319120C6B2E900E638C5 /* DevicesClean */ = {
+		C678319120C6B2E900E638C5 /* DevicesClear */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C678319920C6B2E900E638C5 /* Build configuration list for PBXNativeTarget "DevicesClean" */;
+			buildConfigurationList = C678319920C6B2E900E638C5 /* Build configuration list for PBXNativeTarget "DevicesClear" */;
 			buildPhases = (
 				C678318E20C6B2E900E638C5 /* Sources */,
 				C678318F20C6B2E900E638C5 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = DevicesClean;
+			name = DevicesClear;
 			productName = DevicesClean;
-			productReference = C678319220C6B2E900E638C5 /* DevicesClean */;
+			productReference = C678319220C6B2E900E638C5 /* DevicesClear */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C678318D20C6B2E900E638C5 /* Build configuration list for PBXProject "DevicesClean" */;
+			buildConfigurationList = C678318D20C6B2E900E638C5 /* Build configuration list for PBXProject "DevicesClear" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C678319120C6B2E900E638C5 /* DevicesClean */,
+				C678319120C6B2E900E638C5 /* DevicesClear */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C678318D20C6B2E900E638C5 /* Build configuration list for PBXProject "DevicesClean" */ = {
+		C678318D20C6B2E900E638C5 /* Build configuration list for PBXProject "DevicesClear" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C678319720C6B2E900E638C5 /* Debug */,
@@ -269,7 +269,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C678319920C6B2E900E638C5 /* Build configuration list for PBXNativeTarget "DevicesClean" */ = {
+		C678319920C6B2E900E638C5 /* Build configuration list for PBXNativeTarget "DevicesClear" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C678319A20C6B2E900E638C5 /* Debug */,
